@@ -39,3 +39,5 @@ The images are gray level
 Size of each image is 64x64
 Image pixel values were scaled to [0, 1] interval
 Names of 40 people were encoded to an integer from 0 to 39
+
+![image](https://user-images.githubusercontent.com/79271767/164490547-df6d0bb6-505c-4b1c-8c88-780ba1b443a2.png)
